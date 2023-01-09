@@ -1,4 +1,4 @@
-# 💣 Streamlit Automated Machine Learning Application  💣
+# 💣 Streamlit Automated Machine Learning Application
 
 * You can access application [here](https://alicenkbaytop-automl-streamlit-app-g3cfk4.streamlit.app/).
 
