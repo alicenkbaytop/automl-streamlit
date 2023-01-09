@@ -4,9 +4,9 @@
 
 ## 🔥 Description 🔥
 
-In this project, python programming language, pycaret, pandas profiling and os used. Developed on streamlit library as web application. It is built on streamlit cloud, a cloud-based service provider.
+* This project is designed to apply small datasets to preprocessing, modeling, comparing models, and saving model parts faster.
 
-![Prediction](https://www.picserver.org/assets/library/2020-10-30/originals/predict.jpg)
+* In this project, python programming language, pycaret, pandas profiling and os used. Developed on streamlit library as web application. It is built on streamlit cloud, a cloud-based service provider.
 
 ## ❗ Warnings ❗
 
