@@ -20,6 +20,14 @@
 * Streamlit
 * Streamlit cloud
 
+## 🚀 Run 🚀
+
+```
+conda create -n <env> python=3.9
+conda activate <env>
+pip install - r requirements.txt
+streamlit run app.py
+```
 
 ## 📄 Page view 📄
 ![Main Page](https://github.com/alicenkbaytop/automl-streamlit/blob/main/main_page.png)
